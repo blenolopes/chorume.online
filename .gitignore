@@ -1,0 +1,12 @@
+
+# vscode
+.vscode/
+.vscode/*
+.history/
+.history
+.ionide
+*.vsix
+
+# backup files
+*.bkp
+*.dtmp
