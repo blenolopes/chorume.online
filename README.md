@@ -2,7 +2,7 @@
 
 ![CHORUME-LOGO](topology.drawio.png)
 
-Este é um projeto de homelab chamado **Chorume**, o caldinho que cai do caminhao de lixo.
+Este é um projeto de homelab chamado **Chorume**, "o caldinho que cai do caminhao de lixo".
 
 ## Tecnologias utilizadas
 
@@ -36,13 +36,11 @@ O **Chorume** faz uso das tecnologias e softwares:
 
 ## Licença
 
-Este projeto é licenciado sob a [Sua Licença](LICENSE).
+Este projeto não é licenciado, [clique aqui!](LICENSE)
 
 ## Contato
 
 Se você tiver alguma dúvida ou sugestão, entre em contato:
 
 - Email: <blenolopes@gmail.com>
-- GitHub Issues: [Link para as issues](link_para_as_issues)
-
-> _EOF__
+- GitHub Issues: [Issues](https://github.com/blenolopes/chorume.online/issues)
