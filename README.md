@@ -36,7 +36,7 @@ O **Chorume** faz uso das tecnologias e softwares:
 
 ## Licença
 
-Este projeto não é licenciado, [clique aqui!](LICENSE)
+Este projeto usa a MIT License, [clique aqui!](LICENSE)
 
 ## Contato
 
