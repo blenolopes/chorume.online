@@ -1,0 +1,20 @@
+## TODO
+
+[ 0% ]  - New version README.md file.
+[ 0% ]  - Update topology.
+[ 0% ]  - Delete and create new devenv in Oracle Cloud.
+            . ARM / Ampere VM.
+            . Use Ansible for config vm.
+                .. Post install script via ansible.
+                .. Config git and clone my repositories via ansible.
+            . Use Terraform for provisioning vm.
+[ 0% ]  - Homelab: config dlink access point client.
+[ 0% ]  - Homelab: config cisco 1900 router.
+            . Basic config.
+            . Config routing with dlink access pont.
+            . Config dhcp for homelab.
+[ 0% ]  - Homelab: config cisco 2950 switch.
+            . Basic config.
+            . Config vlans.
+
+## _EOF_
